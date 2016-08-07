@@ -1,0 +1,11 @@
+{
+  "name": "proxy-object-observe",
+  "version": "1.0.0",
+  "description": "An Object.observe inspired util, based on ES6 proxies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Keith Cirkel <npm@keithcirkel.co.uk> (http://keithcirkel.co.uk/)",
+  "license": "MIT"
+}
