@@ -1,5 +1,7 @@
 ## Proxy Object Observe
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/proxy-object-observe'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/proxy-object-observe.svg' /></a>
+
 This super simple library uses ES6 Proxies to provide an API similar to the now deprecated Object.observe spec.
 
 If you want to read more about Proxies, you can read the accompanying blog post; [Metaprogramming in ES6: Part 3 - Proxies](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/).
